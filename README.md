@@ -1,5 +1,3 @@
-Este repositório foi criado para praticar e evoluir no desenvolvimento web
-
 # Sobre mim
 Sou estudante de Ciência da Computação e estou em busca de aprender novas tecnologias, construindo projetos para melhorar minhas habilidades.
 
@@ -11,11 +9,6 @@ Sou estudante de Ciência da Computação e estou em busca de aprender novas tec
 # Objetivo
 
 Colocar em prática os conhecimentos adquiridos e acompanhar minha evolução na programação.
-
-# Estrutura
-html
--css
--javascript
 
 # Observação
 Este repositório será atualizado conforme avanço nos estudos.
