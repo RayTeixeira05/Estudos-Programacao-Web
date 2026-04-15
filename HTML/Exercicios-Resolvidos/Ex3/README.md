@@ -12,8 +12,5 @@ Média
 - HTML5
 
 ## Descrição
-<<<<<<< HEAD
+
 A tabela deve ser construída utilizando thead e tbody.
-=======
-A tabela deve ser construída utilizando thead e tbody.
->>>>>>> c84889cfb72a5e02f8e2d352a5abcb4cf1260670
