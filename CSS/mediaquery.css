@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #eee;
+    padding: 15px;
+}
+
+.caixa {
+    padding: 5px 10px;
+    border:solid
+}
+
+@media (max-width: 599px) {
+    .um {
+        background-color: blue;
+        color: white;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 900px) {
+    .dois {
+        background-color: blue;
+        color: white;
+    }
+}
+
+@media (min-width: 901px) {
+    .tres {
+        background-color: blue;
+        color: white;
+    }
+}
