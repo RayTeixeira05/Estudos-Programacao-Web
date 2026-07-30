@@ -3,8 +3,8 @@ Sou estudante de Ciência da Computação e estou em busca de aprender novas tec
 
 # O que estou estudando
 * HTML
-* CSS (estudando)
-* JavaScript (futuro)
+* CSS
+* JavaScript
 
 # Objetivo
 
